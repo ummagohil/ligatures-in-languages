@@ -23,7 +23,7 @@ Using an open source model for a font-based ligature detection tool.
   git clone https://github.com/ummagohil/ligatures-in-languages-fe.git
 ```
 
-### View App
+### 👀View App
 https://ligatures-in-languages.vercel.app/
 
 ### 💭Future Improvements
