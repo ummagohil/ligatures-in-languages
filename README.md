@@ -13,12 +13,7 @@ Using an open source model for a font-based ligature detection tool.
 - Python
 - Hugging Face
 
-### 🔧How to Run the App
-
-```bash
-  git clone https://github.com/ummagohil/ligatures-in-languages-be.git
-```
-
+### 🔧How to Run the App/View Code
 ```bash
   git clone https://github.com/ummagohil/ligatures-in-languages-fe.git
 ```
