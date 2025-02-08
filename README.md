@@ -19,7 +19,7 @@ Using an open source model for a font-based ligature detection tool.
 ```
 
 ### 👀View Code
-[https://ligatures-in-languages.vercel.app/
+[https://ligatures-in-languages.vercel.app
 ](https://github.com/ummagohil/ligatures-in-languages-fe.git)
 ### 👀View App
 https://ligatures-in-languages.vercel.app/
