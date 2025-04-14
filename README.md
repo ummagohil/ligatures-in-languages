@@ -2,7 +2,7 @@
 Using an open source model for a font-based ligature detection tool.
 
 ### 📋Aims of App
-- Allow users input a string of text that uses a speical ligature based language and get a translation back
+- Allow users input a string of text that uses a ligature based language and gets a translation back
   
 ### 👩‍💻Technical Details
 
