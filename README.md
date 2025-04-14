@@ -14,7 +14,7 @@ Using an open source model for a font-based ligature detection tool.
 - Hugging Face
 
 ### 👀View App
-[ligatures in languages](https://ligatures-in-languages-gw7vpi.vercel.app/)
+[ligatures in languages](https://ligatures-in-languages-ummas-projects-56e518b5.vercel.app/)
 
 ### 💭Future Improvements
 - Fix the issues with some languages not being translated
