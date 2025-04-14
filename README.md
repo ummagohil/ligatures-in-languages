@@ -10,19 +10,14 @@ Using an open source model for a font-based ligature detection tool.
 - TypeScript
 - Shadcn/UI
 - Next.js
-- Python
 - Hugging Face
 
-### 🔧How to Run the App
-```bash
-  git clone https://github.com/ummagohil/ligatures-in-languages-fe.git
-```
-
-### 👀View Code
-https://github.com/ummagohil/ligatures-in-languages-fe.git
-
 ### 👀View App
-https://ligatures-in-languages.vercel.app/
+[ligatures in languages](https://ligatures-in-languages-gw7vpi.vercel.app/)
 
 ### 💭Future Improvements
-tbc
+- Fix the issues with some languages not being translated
+
+### Notes
+- This is not an opensource project, however if you want to contribute or have any questions please reach out to me at hello@umma.dev 
+
