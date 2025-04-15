@@ -19,6 +19,6 @@ Using an open source model for a font-based ligature detection tool.
 ### 💭Future Improvements
 - Fix the issues with some languages not being translated
 
-### Notes
+### 🗒️Notes
 - This is not an open source project, however if you want to contribute or have any questions please reach out to me at hello@umma.dev 
 
