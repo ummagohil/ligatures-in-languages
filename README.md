@@ -23,5 +23,5 @@ Using an open source model for a font-based ligature detection tool.
 - Fix the issues with some languages not being translated
 
 ### 🗒️Notes
-- hello@umma.dev 
+hello@umma.dev 
 
