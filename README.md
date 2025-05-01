@@ -10,7 +10,6 @@ Using an open source model for a font-based ligature detection tool.
 - TypeScript
 - Shadcn/UI
 - Next.js
-- Supabase
 - Hugging Face
 
 ### 💻Code
