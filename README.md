@@ -1,4 +1,4 @@
-# 🗣️Ligatures in Langauges
+# 🗣️Ligatures in Languages
 Using an open source model for a font-based ligature detection tool.
 
 ### 📋Aims of App
